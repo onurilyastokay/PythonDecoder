@@ -1,8 +1,6 @@
 # PythonDecoder
 Simple Python3 Decoder
 
-You can decode directly Base16, Base32, Base64, Base85, Binary, Hex values or try all options for crack encrypted text with Simple Python3 Decoder.
-
 ![Python Simple Decoder](https://1.bp.blogspot.com/-Fo7Sg9B9Xy8/X9YwRp5X-AI/AAAAAAAAAdc/E2Yq9fYe0xQWPDd3i2M-5eDZo7hLz2tfACLcBGAsYHQ/s16000/pythondecoder.png)
 
 * Base16
